@@ -1,0 +1,239 @@
+body {
+    background-image: 
+      url("https://rare-gallery.com/uploads/posts/4598155-artwork-full-metal-alchemist-elric-edward-anime-full-metal-alchemist-brotherhood-fantasy-art.jpg");
+    background-color: black;
+    border: 16px double black;
+    
+    padding: 10px 16px;
+  }
+  nav {
+    width: 10%;
+    font-size: 1.4rem; 
+  }
+  a {
+    font-size: 1.3rem;
+  }
+  
+  h1 {
+    font-family: fantasy;
+    color: silver;
+    background-color: black;
+    text-align: center;
+    width: 25%;
+    height: 25%;
+    border-style: solid;
+  }
+  
+  h2 {
+    font-family: fantasy;
+    color: silver;
+    background-color: black;
+    text-align: center;
+    width:25%;
+    height:25%;
+    border-style: solid;
+  }
+  
+  #para {
+    text-align: center;
+    border: 2px;
+    padding: 4px;
+    margin: 3px;
+    color: silver;
+    width:25%
+  }
+  
+  label {
+    font-family: georgia;
+    font-size: 1rem;
+    padding-right: 10px;
+    text-align: right;
+  }
+  
+  select {
+    font-family: fantasy;
+    font-size:2rem;
+    width: 20%;
+    color: silver;
+  }
+  
+  #goku {
+    height: 15%;
+    width:25%;
+    padding: 12px;
+    border: 5px solid black;
+    margin: 20px;
+    background-color: black;
+    opacity: 0.7;
+  }
+  
+  #kiki {
+    width:15%;
+    height:25%;
+    border: 5px solid black;
+    padding: 12px;
+    margin: 5px;
+    background-color: black;
+    opacity: 0.7;
+  }
+  
+  #saitama {
+    height: 15%;
+    width: 30%;
+    padding: 12px;
+    border: 5px solid black;
+    margin: 10px;
+    float: right;
+    background-color:black;
+    opacity: 0.7;
+  }
+  
+  #cowboy {
+    height: 15%;
+    width: 30%;
+    padding: 12px;
+    border: 5px solid black;
+    margin: 10px;
+    float: right;
+    background-color:black;
+    opacity: 0.7;
+  }
+  
+  #demon {
+    height: 15%;
+    width: 30%;
+    float: right;
+    padding: 12px;
+    border: 5px solid black;
+    margin: 10px;
+    background-color: black;
+    opacity: 0.7;
+  }
+  
+  #hero {
+     height: 15%;
+    width: 30%;
+    float: right;
+    padding: 12px;
+    border: 5px solid back;
+    margin: 10px;
+    background-color: black;
+    opacity: 0.7;
+  }
+  
+  blockquote {
+    color: silver;
+    padding: 2px;
+    border: 5px;
+    margin: 3px;
+    width: 25%;
+    height: 25%;
+    text-align: center;
+    font-size: 1.6rem;
+    border-color: silver;
+  }
+  blockquote {
+      margin: 0;
+  }
+  
+  blockquote p {
+      padding: 15px;
+      background: #eee;
+      border-radius: 5px;
+  }
+  
+  blockquote p::before {
+      content: '\201C';
+  }
+  
+  blockquote p::after {
+      content: '\201D';
+  }
+  
+  table {
+    background-color: black;
+    color: silver;
+    width: 25%;
+    height: 15%;
+  }
+  
+  th {
+    color: grey;
+    text-align: left;
+    border-color: silver;
+    
+  }
+  
+  td {
+    color: black;
+    background-color: silver;
+    width: 20%;
+    height: 20%;
+    border-style: double;
+  }
+  
+  li {
+    color: silver;
+    font-size: 1.3rem;
+    padding: 3px;
+    border: 5px;
+  }
+  
+  button {
+    background-color: orange;
+    color: red;
+    font-size: 1.3rem;
+    padding: 16px 32px;
+    margin: 4px 2px;
+    border: none;
+    cursor: pointer;
+    transition-duration: 0.4s;
+    display: inline-block;
+  }
+  .button1 {
+    background-color: blue; 
+    color: white; 
+    border: 2px solid blue;
+  }
+  .button1:hover {
+    background-color: black;
+    color: orange;
+  }
+  
+  #hin {
+    color: blue;
+    font-family: arial;
+  }
+  
+  #nej {
+    color: green;
+    font-family: Lucida Console;
+  }
+  
+  #sas {
+    color: red;
+    font-family: papyrus;
+  }
+  
+  #ita {
+    color: purple;
+    font-family: helvetica;
+  }
+  
+  #choose {
+    color: silver;
+    background-color: black;
+    font-size: 1.5rem;
+    padding: .5px;
+    border: 4px;
+    margin: 5px;
+    border-style: inset;
+  }
+  
+  #birth {
+    color: silver;
+    background-color: black;
+    font-size: 1.2rem;
+    border-style: inset;
+  }
+  
